@@ -1,9 +1,9 @@
 # Jung-Jongwon
 <div align="center">
 
-![header](https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header)
+<img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome&fontSize=90" />
 
-<img src="본인의_사진_주소" width="150" height="150" style="border-radius: 50%;" />
+<img src="https://github.com/BELLWONE.png" width="150" height="150" style="border-radius: 50%;" />
 
 ## Hi 👋 I'm Jung Jongwon
 I'm a **Computer Engineering** student at **HUFS**.
