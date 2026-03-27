@@ -1,11 +1,12 @@
 # BELLWONE
 <div align="center">
 
-<img src="https://github.com/BELLWONE.png" width="150" height="150" style="border-radius: 50%;" />
+<img src="https://capsule-render.vercel.app/render?type=circle&text=&color=00000000&stroke=ffffff&strokeWidth=2&desc=&autoSize=false&width=150&height=150&re_img=https://github.com/BELLWONE.png" />
 
-## Hi 👋 I'm Jung Jongwon
-I'm a **Computer Engineering** student at **HUFS**.
-Interested in **Medical AI, Computer Vision, and Bioinformatics**.
+## Hi 👋 I'm Jongwon Jung
+
+- 🎓 **Computer Engineering** student at **Hankuk University of Foreign Studies (HUFS)**
+- 🧬 Interested in **Medical AI, Computer Vision, and Bioinformatics**
 
 ---
 
