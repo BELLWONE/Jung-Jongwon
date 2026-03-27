@@ -17,4 +17,14 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 <br>
+
+---
+
+### 📊 Stats & Problem Solving
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BELLWONE&show_icons=true&theme=radical" />
+  <br><br>
+  <a href="https://solved.ac/supper1470">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=supper1470" />
+  </a>
 </div>
