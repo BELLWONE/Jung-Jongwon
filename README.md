@@ -1,4 +1,3 @@
-# BELLWONE
 <div align="center">
 
 <img src="https://github.com/BELLWONE.png" width="150" height="150" alt="Profile Picture" />
