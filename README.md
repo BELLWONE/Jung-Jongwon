@@ -6,7 +6,6 @@
 ## Hi 👋 I'm Jung Jongwon
 I'm a **Computer Engineering** student at **HUFS**.
 Interested in **Medical AI, Computer Vision, and Bioinformatics**.
-Feel free to contact me! 😉
 
 ---
 
