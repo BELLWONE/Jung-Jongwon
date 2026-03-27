@@ -1,7 +1,7 @@
 # BELLWONE
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=circle&text=&color=00000000&stroke=ffffff&strokeWidth=2&desc=&autoSize=false&width=150&height=150&re_img=https://github.com/BELLWONE.png" />
+<img src="https://github.com/BELLWONE.png" width="150" height="150" alt="Profile Picture" />
 
 ## Hi 👋 I'm Jongwon Jung
 
@@ -16,6 +16,6 @@
 
 ### 🛠 Skills
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <br>
 </div>
