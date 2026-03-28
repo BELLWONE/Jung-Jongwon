@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/BELLWONE.png" width="150" height="150" alt="Profile Picture" />
+<img src="https://github.com/Jongwon-J.png" width="150" height="150" alt="Profile Picture" />
 
 ## Hi 👋 I'm Jongwon Jung
 
