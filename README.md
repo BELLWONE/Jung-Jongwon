@@ -22,7 +22,7 @@
 
 ### 📊 Stats & Problem Solving
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bellwone" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=bellwone&show_icons=true&theme=radical" />
   <br><br>
   <a href="https://solved.ac/supper1470">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=supper1470" />
